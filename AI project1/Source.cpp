@@ -1,8 +1,4 @@
 ////Antonio De La Garza
-////20334472
-//// February 12, 2018
-
-////AI Project 1: Vacuum Agent////////
 
 #include <iostream>
 #include <iomanip>
